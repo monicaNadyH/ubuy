@@ -1,0 +1,12 @@
+applications:
+- disk_quota: 256M
+  domain: null
+  host: null
+  instances: 1
+  memory: 256M
+  name: UBuy BOT
+  path: .
+  random-route: true
+  routes:
+  - route: UBuy.eu-gb.cf.appdomain.cloud
+  services: null
